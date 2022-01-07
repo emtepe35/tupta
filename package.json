@@ -1,0 +1,12 @@
+{
+  "name": "tupta",
+  "version": "1.0.0",
+  "description": "opis",
+  "main": "jquery-3.6.0.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
