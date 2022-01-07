@@ -4,13 +4,18 @@
   "description": "tupta",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.2",
+    "node": "^17.3.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "Mateusz Tupta",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "tupta"
+  }
 }
